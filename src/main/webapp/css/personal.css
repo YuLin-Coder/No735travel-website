@@ -1,0 +1,177 @@
+/*personal*/
+.la{
+    text-align: center;
+    margin: 20px 0 20px 30px;
+    height: 36px;
+    width: 150px;
+    border-radius: 3px;
+}
+.la a{
+    color: #666;
+    font-size: 14px;
+    border-radius: 3px;
+    margin-bottom: 8px;
+    position: relative;
+    overflow: hidden;
+}
+
+.la.on {
+    background-color: #1E90FF;
+    color: #fff;
+}
+
+.la a.on {
+    background-color: #1E90FF;
+    color: #fff;
+}
+
+.pediv{
+    width:100%;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.pldiv{
+    width: 220px;
+    float: left;
+    margin: 10px 0 0 0;
+    font-size: 20px;
+}
+
+.prdiv{
+    width: 1200px;
+    float: left;
+    margin: 10px 0 0 10px;
+}
+
+/*userInfo*/
+
+.ediv{
+    overflow: hidden;margin: 10px 0 0 10px;
+}
+.ldiv{
+    color: #a1a1a1;float: left;width: 10%;line-height: 36px;
+}
+.rdiv{
+    float: left;width: 60%;
+}
+
+.errormsg{
+    color:red;
+    text-align: center
+}
+
+/*myfavorite*/
+
+.tab-content .row>div {
+    margin-top: 16px;
+}
+
+.tab-content {
+    margin-bottom: 36px;
+}
+/*message + mymessage*/
+hr {
+    height: 1.5px;
+    width: 100%;
+    background-image: linear-gradient(to right,#F08080,#6495ED,#DC143C,#FF7F50,#E9967A);
+}
+
+.topmsg{
+    width: 1000px;margin: 30px 0 0 80px; border: solid 1px #ddd;
+}
+
+.online{
+    margin: 5px 0 0 5px;font-size: 18px;color: #FF8C00;float:left;
+}
+
+.toperror{
+    float:left;width: 90%;text-align: center;color: #DC143C;margin-top: 20px;
+}
+
+.onlinecontent{
+    width: 900px;margin: 15px 0 20px 50px;
+}
+
+.leave{
+    width: 1000px;margin: 30px 0 0 80px; border: solid 1px #ddd;
+}
+
+.leave_list{
+    margin: 5px 0 0 5px;font-size: 18px;color: #FF8C00;
+}
+
+.leave_for{
+    width: 900px;margin: 15px 0 20px 50px;
+}
+
+.div_s{
+    width: 100%;overflow: hidden;margin-bottom: -10px;
+}
+
+.div_r{
+    width:100%;float: left;
+}
+
+.div_t{
+    width: 100%;float: left;margin-top: 10px;
+}
+
+.div_lt{
+    float: left;color: #666;
+}
+
+.div_rt{
+    float: right;color: #666;
+}
+
+.del{
+    float: right;
+    margin: 0 20px;
+    color: #DC143C;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.del a{
+    color: #DC143C;
+}
+
+.div_mol{
+    float:left;width: 40%;
+}
+
+.div_imgs{
+    height:60px;width:100px;
+}
+
+.div_mor{
+    width:60%;float: left;
+}
+
+.hname{
+    float:left;margin:0 0 10px 20px;
+}
+
+.dleft{
+    float: left;
+    width: 30%;
+    color: #696969;
+}
+
+.dright{
+    float: left;
+    width: 70%;
+}
+
+.eldiv{
+    float: left;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.elbdiv{
+    float: left;
+    margin: 10px 0 50px 0;
+    width: 100%;
+}

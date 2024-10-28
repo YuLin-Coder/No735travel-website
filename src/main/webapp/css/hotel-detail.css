@@ -1,0 +1,29 @@
+/*酒店详情*/
+.demo {
+  position: relative;
+  width: 60%;
+  float: right;
+  margin-bottom: 10px;
+}
+.demo i {
+    position: absolute;
+    bottom: 10px;
+    right: 24px;
+    top: auto;
+    cursor: pointer;
+}
+
+.eleft{
+    width: 100%;
+    overflow: hidden;
+    margin: 10px 0;
+}
+
+.left_div{
+    width: 15%;
+    margin: 10px 5px 10px 0px;
+    float: left;
+    text-align: right;
+}
+
+
